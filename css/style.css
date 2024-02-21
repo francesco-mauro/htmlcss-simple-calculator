@@ -4,14 +4,15 @@
     box-sizing: border-box;
 }
 
-body, html {
+body{
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 150px;
 }
 
-.chassid{
+.chassis{
     background-color: grey;
     height: 600px;
     width: 400px;    
